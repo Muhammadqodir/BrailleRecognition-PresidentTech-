@@ -1,6 +1,6 @@
 # BrailleRecognition - README
 
-![BrailleRecognition Banner](res/banner_2.png.png)
+![BrailleRecognition Banner](res/banner_2.png)
 
 ---
 
@@ -54,9 +54,7 @@ This folder contains the **custom machine learning model** for detecting and tra
 ## Screenshots
 
 ### Mobile App
-![App Screenshot 1](res/main.png)
-![App Screenshot 2](res/result.png)
-![App Screenshot 3](res/trants.png)
+![App Screenshots](res/screanshots.jpg)
 
 ---
 
